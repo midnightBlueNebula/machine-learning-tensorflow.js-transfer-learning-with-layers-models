@@ -1,1 +1,1 @@
-# machine-learning-tensorflow.js-transfer-learning-with-layers-models
+Google AI Course: Transfer Learning with Layers Models
